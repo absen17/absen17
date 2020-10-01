@@ -1,13 +1,13 @@
 body{
     background-color: #00203FFF;
-    color: #ADEFD1FF;
+  color: #D6E0F0;
   }
 hr{
   border-style: none;
   border-top-style: dotted;
   border-color:white;
   border-width: 5px;
-  width: 40%;
+  width: 10%;
 }  
 h1{  
   color: #DAA03DFF;

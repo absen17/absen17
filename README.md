@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! My name is Abhishek and I'm a Computer Science Engineer by profession.</h2>
+<h2 align="left">Hi👋! My name is Abhishek and I'm an average Computer Science Engineer.</h2>
 
 ###
 

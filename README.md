@@ -25,13 +25,13 @@
 ###
 
 <div align="left">
-  <img src="https://www.youtube.com/@AbSen17" width="49" height="30" alt="youtube logo"  />
+<!--   <img src="https://www.youtube.com/@AbSen17" width="49" height="30" alt="youtube logo"  />
   <img src="https://www.facebook.com/absen17/" width="49" height="30" alt="facebook logo"  />
   <img src="https://www.instagram.com/_absen17_/" width="49" height="30" alt="instagram logo"  />
   <img src="https://x.com/AbSen17_" width="49" height="30" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="30" alt="discord logo"  />
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="30" alt="gmail logo"  /> -->
-  <img src="https://www.hackerrank.com/profile/abhisheksen77777" width="49" height="30" alt="hackerrank logo"  />
+<!--   <img src="https://www.hackerrank.com/profile/abhisheksen77777" width="49" height="30" alt="hackerrank logo"/> --> -->
 </div>
 
 ###

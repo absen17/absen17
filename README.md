@@ -1,4 +1,5 @@
-<h2 align="left">Hi👋! My name is Abhishek and I'm an average Computer Science Engineer.</h2>
+<h3 align="left">Hi everyone, I'm Abhishek Sen! 👋</h3>
+<h4>Software development is my profession, and gaming & travelling is my passion.</h4>
 
 ###
 
@@ -31,7 +32,7 @@
   <img src="https://x.com/AbSen17_" width="49" height="30" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="49" height="30" alt="discord logo"  />
 <!--   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="49" height="30" alt="gmail logo"  /> -->
-<!--   <img src="https://www.hackerrank.com/profile/abhisheksen77777" width="49" height="30" alt="hackerrank logo"/> --> -->
+<!--   <img src="https://www.hackerrank.com/profile/abhisheksen77777" width="49" height="30" alt="hackerrank logo"/> -->
 </div>
 
 ###
